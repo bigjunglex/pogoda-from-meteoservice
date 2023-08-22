@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../lesson8/expenses_tracker/.idea/expenses_tracker.iml" filepath="$PROJECT_DIR$/../../lesson8/expenses_tracker/.idea/expenses_tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goroskop/.idea/goroskop.iml" filepath="$PROJECT_DIR$/../goroskop/.idea/goroskop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../lesson6/notepad/.idea/notepad.iml" filepath="$PROJECT_DIR$/../../lesson6/notepad/.idea/notepad.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pogoda.iml" filepath="$PROJECT_DIR$/.idea/pogoda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rspec/.idea/rspec.iml" filepath="$PROJECT_DIR$/../rspec/.idea/rspec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../valuta/.idea/valuta.iml" filepath="$PROJECT_DIR$/../valuta/.idea/valuta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../lesson1/viselica/.idea/viselica.iml" filepath="$PROJECT_DIR$/../../lesson1/viselica/.idea/viselica.iml" />
     </modules>
   </component>
 </project>
